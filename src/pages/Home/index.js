@@ -14,7 +14,7 @@ function Home() {
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription={
-          "Vou levar ela pro beco"
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac sodales nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac sodales nulla."
         }
       />
 
@@ -25,8 +25,6 @@ function Home() {
       <Carousel category={dadosIniciais.categorias[2]} />
 
       <Carousel category={dadosIniciais.categorias[3]} />
-
-      <Carousel category={dadosIniciais.categorias[4]} />
 
       <Footer />
     </div>

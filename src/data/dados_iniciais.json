@@ -3,14 +3,14 @@
     {
       "titulo": "GTA Online",
       "link": "https://www.youtube.com/channel/UCd39iO5kqxY36-KrnbxacDg",
-      "cor": "#0fb9b1",
+      "cor": "#EA2027",
       "link_extra": {
         "text": "Vídeos do canal WyzeWolf BR",
         "url": "https://www.youtube.com/watch?v=0Vdj8P3IG2k"
       },
       "videos": [
         {
-          "titulo": "ＭＯＮＳＴＥＲ | Kill Montage by WyzeWolf BR",
+          "titulo": "Rocket League® - New RLCS Intro Debut",
           "url": "https://www.youtube.com/watch?v=XUETSnO-JL4"
         },
         {
@@ -37,7 +37,7 @@
     },
     {
       "titulo": "Minecraft",
-      "cor": "#20bf6b",
+      "cor": "#44bd32",
       "link_extra": {
         "text": "Vídeos do canal Willzy",
         "url": "https://www.youtube.com/c/WzGameShow/videos"
@@ -66,34 +66,8 @@
       ]
     },
     {
-      "titulo": "Euro Truck Simulator 2",
-      "cor": "#eb3b5a",
-      "link_extra": {
-        "text": "#1",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "#2",
-          "url": "https://www.youtube.com/watch?v=z9FEvJ-D16k"
-        },
-        {
-          "titulo": "#3",
-          "url": "https://www.youtube.com/watch?v=Xpe6uDR5yuc"
-        },
-        {
-          "titulo": "#4",
-          "url": "https://www.youtube.com/watch?v=71l4Id5CCrk"
-        },
-        {
-          "titulo": "#5",
-          "url": "https://www.youtube.com/watch?v=Osf4Ice73G8"
-        }
-      ]
-    },
-    {
       "titulo": "Fortnite",
-      "cor": "#2d98da",
+      "cor": "#38D7E7",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -115,7 +89,7 @@
     },
     {
       "titulo": "Rocket League",
-      "cor": "#3c40c6",
+      "cor": "#b71540",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"

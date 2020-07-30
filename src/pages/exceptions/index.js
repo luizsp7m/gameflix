@@ -1,8 +1,9 @@
 import React from 'react';
+import './styles.css'
 
 function error() {
     return(
-        <div>
+        <div className="color">
             Página não encontrada
         </div>
     );

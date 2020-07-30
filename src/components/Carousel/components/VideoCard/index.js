@@ -11,7 +11,7 @@ function getYouTubeId(youtubeURL) {
 
 
 function VideoCard({ videoTitle, videoURL, categoryColor }) {
-  const image = `https://img.youtube.com/vi/${getYouTubeId(videoURL)}/hqdefault.jpg`;
+  const image = `http://i.ytimg.com/vi/${getYouTubeId(videoURL)}/maxresdefault.jpg`; 
   return (
     <VideoCardContainer
       url={image}
