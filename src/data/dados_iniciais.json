@@ -1,0 +1,147 @@
+{
+  "categorias": [
+    {
+      "titulo": "GTA Online",
+      "link": "https://www.youtube.com/channel/UCd39iO5kqxY36-KrnbxacDg",
+      "cor": "#0fb9b1",
+      "link_extra": {
+        "text": "Vídeos do canal WyzeWolf BR",
+        "url": "https://www.youtube.com/watch?v=0Vdj8P3IG2k"
+      },
+      "videos": [
+        {
+          "titulo": "ＭＯＮＳＴＥＲ | Kill Montage by WyzeWolf BR",
+          "url": "https://www.youtube.com/watch?v=XUETSnO-JL4"
+        },
+        {
+          "titulo": "#1",
+          "url": "https://www.youtube.com/watch?v=H0gj9tOmiVg"
+        },
+        {
+          "titulo": "#2",
+          "url": "https://www.youtube.com/watch?v=F6DG04EvpWo"
+        },
+        {
+          "titulo": "#3",
+          "url": "https://www.youtube.com/watch?v=M841V8OF5fI"
+        },
+        {
+          "titulo": "#4",
+          "url": "https://www.youtube.com/watch?v=aJoImHhYXl0"
+        },
+        {
+          "titulo": "#5",
+          "url": "https://www.youtube.com/watch?v=tw6ff-q28hM"
+        }     
+      ]
+    },
+    {
+      "titulo": "Minecraft",
+      "cor": "#20bf6b",
+      "link_extra": {
+        "text": "Vídeos do canal Willzy",
+        "url": "https://www.youtube.com/c/WzGameShow/videos"
+      },
+      "videos": [
+        {
+          "titulo": "MINECRAFT 1.17 - DEVE SER A ATUALIZAÇÃO DAS MONTANHAS!",
+          "url": "https://www.youtube.com/watch?v=HqhvT2zOylA&t"
+        },
+        {
+          "titulo": "JOGUEI na SEED do MINECRAFT BETA de 10 ANOS ATRÁS!",
+          "url": "https://www.youtube.com/watch?v=s8v4cpWCASQ"
+        },
+        {
+          "titulo": "TEXTURA que DEIXA o MINECRAFT 1.16 MAIS BONITO! - MEU PACK REALISTA",
+          "url": "https://www.youtube.com/watch?v=DZ4GXSeyQnw"
+        },
+        {
+          "titulo": "TOUR pelo MEU MAPA SURVIVAL de 4 ANOS! Parte 2 // Meu Mundo #302 // Minecraft",
+          "url": "https://www.youtube.com/watch?v=MenDwWo5P7s"
+        }, 
+        {
+          "titulo": "FIZ um MEGA CASTELO no SURVIVAL! 100 HORAS // Meu Mundo #300 // Minecraft",
+          "url": "https://www.youtube.com/watch?v=zTpRqHLgaek"
+        }
+      ]
+    },
+    {
+      "titulo": "Euro Truck Simulator 2",
+      "cor": "#eb3b5a",
+      "link_extra": {
+        "text": "#1",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "#2",
+          "url": "https://www.youtube.com/watch?v=z9FEvJ-D16k"
+        },
+        {
+          "titulo": "#3",
+          "url": "https://www.youtube.com/watch?v=Xpe6uDR5yuc"
+        },
+        {
+          "titulo": "#4",
+          "url": "https://www.youtube.com/watch?v=71l4Id5CCrk"
+        },
+        {
+          "titulo": "#5",
+          "url": "https://www.youtube.com/watch?v=Osf4Ice73G8"
+        }
+      ]
+    },
+    {
+      "titulo": "Fortnite",
+      "cor": "#2d98da",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=UBlS-xUkEV0"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=MPDmnIKI75U"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=WJO_RDWWNHA"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=5RzM58gJsTg"
+        }
+      ]
+    },
+    {
+      "titulo": "Rocket League",
+      "cor": "#3c40c6",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=XUETSnO-JL4"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=yBS9k1afG6E"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=XUETSnO-JL4"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=0bmn0hEgJLQ"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=79FBliZsIuQ"
+        }
+      ]
+    }
+  ]
+}
